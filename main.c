@@ -4,7 +4,7 @@
 
 #include "12C5A60S2.h"
 
-#define DEBUG
+//#define DEBUG
 #ifdef DEBUG
 sbit test0 = P2^0;
 sbit test1 = P2^1;
