@@ -14,8 +14,8 @@ WFR07是天地飞（WFly）7通道航模遥控器的接收机，其三个通道�
 本工程使用单片机提取其7个通道的信号，解码后以数字信号通过UART串口输出。
 
 # WFR07特性
-关于WFR07遥控器和GR3E接收机的详细介绍可访问 <http://nicekwell.net/>。  
-关于PPM信号的详细介绍可访问 <http://nicekwell.net/>。
+关于WFT07遥控器和WFR07接收机的详细介绍可访问 <http://nicekwell.net/blog/20161223/wft07he-wfr07de-gong-neng-he-shi-yong.html>。  
+关于PPM信号的详细介绍可访问 <http://nicekwell.net/blog/20161223/ppmxin-hao-jie-shao.html>。
 
 7个通道的默认配置：
 
