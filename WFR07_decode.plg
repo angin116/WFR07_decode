@@ -1,0 +1,71 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+Y:\workspace\WFR07_decode\WFR07_decode.uvproj
+Project File Date:  12/23/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=29.0 xdata=0 code=518
+creating hex file from ".\obj\WFR07_decode"...
+".\obj\WFR07_decode" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=29.0 xdata=0 code=518
+creating hex file from ".\obj\WFR07_decode"...
+".\obj\WFR07_decode" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=29.0 xdata=0 code=523
+creating hex file from ".\obj\WFR07_decode"...
+".\obj\WFR07_decode" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(66): error C141: syntax error near 'if'
+MAIN.C(82): error C187: not an lvalue
+MAIN.C(83): error C187: not an lvalue
+MAIN.C(84): error C187: not an lvalue
+MAIN.C(85): error C187: not an lvalue
+MAIN.C(86): error C187: not an lvalue
+MAIN.C(87): error C187: not an lvalue
+MAIN.C(88): error C187: not an lvalue
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(66): error C141: syntax error near 'if'
+MAIN.C(82): error C187: not an lvalue
+MAIN.C(83): error C187: not an lvalue
+MAIN.C(84): error C187: not an lvalue
+MAIN.C(85): error C187: not an lvalue
+MAIN.C(86): error C187: not an lvalue
+MAIN.C(87): error C187: not an lvalue
+MAIN.C(88): error C187: not an lvalue
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(66): error C141: syntax error near 'if'
+MAIN.C(82): error C187: not an lvalue
+MAIN.C(83): error C187: not an lvalue
+MAIN.C(84): error C187: not an lvalue
+MAIN.C(85): error C187: not an lvalue
+MAIN.C(86): error C187: not an lvalue
+MAIN.C(87): error C187: not an lvalue
+MAIN.C(88): error C187: not an lvalue
+Target not created
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(66): error C141: syntax error near 'if'
+MAIN.C(82): error C187: not an lvalue
+MAIN.C(83): error C187: not an lvalue
+MAIN.C(84): error C187: not an lvalue
+MAIN.C(85): error C187: not an lvalue
+MAIN.C(86): error C187: not an lvalue
+MAIN.C(87): error C187: not an lvalue
+MAIN.C(88): error C187: not an lvalue
+Target not created

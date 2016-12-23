@@ -1,0 +1,11 @@
+*
+!.gitignore
+!obj
+!list
+!12C5A60S2.h
+!main.c
+!WFR07_decode.uvproj
+!WFR07_decode.plg
+!README.md
+!tools
+
